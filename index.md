@@ -1,5 +1,3 @@
-## Hello there
-
 I'm Rafal, AI specialist among chemists and chemistry specialist among AI developers 🧪 💻
 
 Here is my portfolio, a list of published articles, accomplishments, in a word, my personal website
