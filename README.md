@@ -1,1 +1,0 @@
-# all2gos.github.io
