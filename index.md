@@ -22,7 +22,7 @@ Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Maste
 
 *Oct 2019 - Feb 2023*
 
-Wroclaw University of Science and Technology, **Chemical Technology**, Engineering Degree
+Wroclaw University of Science and Technology, **Chemical Technology**, Engineering degree
 ## Projects
 
 ## Publications
