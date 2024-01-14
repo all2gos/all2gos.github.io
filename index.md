@@ -1,6 +1,6 @@
 ## Hello there
 
-I'm Rafal, AI specialist among chemists and chemistry specialist among AI developers 🧪 :laptop: 
+I'm Rafal, AI specialist among chemists and chemistry specialist among AI developers 🧪 💻
 
 Here is my portfolio, a list of published articles, accomplishments, in a word, my personal website
 
@@ -18,7 +18,12 @@ Here is my portfolio, a list of published articles, accomplishments, in a word, 
 
 **Intern at the Division of Nanomaterials Chemistry and Catalysis** My task was to carry out the synthesis of mesoporous inorganic supports, and to study the catalytic activity of the materials obtained. The work was geared towards the development of new synthesis procedures. I remember this summer internship very warmly.
 ## Education
+*Oct 2023 - Jun 2025*
 
+**Wroclaw University of Environmental and Life Sciences, Master's degree, Bioinformatics**
+*Oct 2019 - Feb 2023*
+
+**Wroclaw University of Science and Technology, Engineering Degree, Chemical Technology**
 ## Projects
 
 ## Publications
