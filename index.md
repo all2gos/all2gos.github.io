@@ -28,9 +28,9 @@ Wroclaw University of Science and Technology, **Chemical Technology**, Engineeri
 
 ## Publications
 
-Nov 26, 2023 [Can Machine Learning Predict the Reaction Paths in Catalytic CO2 Reduction on Small Cu/Ni Clusters?](https://www.mdpi.com/2073-4344/13/12/1470)(IF = 3.9)
+Nov 26, 2023 [Can Machine Learning Predict the Reaction Paths in Catalytic CO2 Reduction on Small Cu/Ni Clusters?](https://www.mdpi.com/2073-4344/13/12/1470) (IF = 3.9)
 
-Dec 9, 2022[Application of the pyrazolone derivatives as effective modulators in the opto-electronic networks](https://www.sciencedirect.com/science/article/abs/pii/S1010603022007055?via%3Dihub)(IF = 4.3)
+Dec 9, 2022[Application of the pyrazolone derivatives as effective modulators in the opto-electronic networks](https://www.sciencedirect.com/science/article/abs/pii/S1010603022007055?via%3Dihub) (IF = 4.3)
 
 ## Conference Participation
 
