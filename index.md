@@ -18,10 +18,11 @@ Here is my portfolio, a list of published articles, accomplishments, in a word, 
 ## Education
 *Oct 2023 - Jun 2025*
 
-**Wroclaw University of Environmental and Life Sciences, Master's degree, Bioinformatics**
+Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Master's degree
+
 *Oct 2019 - Feb 2023*
 
-**Wroclaw University of Science and Technology, Engineering Degree, Chemical Technology**
+Wroclaw University of Science and Technology, **Chemical Technology**, Engineering Degree
 ## Projects
 
 ## Publications
