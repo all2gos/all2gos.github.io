@@ -37,7 +37,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 ## Conference Participation
 
 *Feb 2023*
-**COST Conference Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting**, poster presentation
+**COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
 
 *Sep 2022*
 **81st National Scientific Conference Tuteech** *Tutoring in the Eyes of Students*, oral presentation
@@ -46,7 +46,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 **XXV Lower Silesian Science Festival**, oral presentation
 
 *Jun 2022*
-**63 Crystallographic Conversation**, presentation in poster session
+**63 Crystallographic Conversation**, poster presentation
 
 *Apr 2022*
 **IX National Conference of Medical Physics Students *Physics for Medicine*** where I won a competition for the best oral presentation
