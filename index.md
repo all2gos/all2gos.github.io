@@ -25,6 +25,8 @@ Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Maste
 Wroclaw University of Science and Technology, **Chemical Technology**, Engineering degree
 ## Projects
 
+**RPC**
+**PICle**
 
 ## Publications
 
@@ -34,4 +36,28 @@ Dec 9, 2022[Application of the pyrazolone derivatives as effective modulators in
 
 ## Conference Participation
 
+*Feb 2023*
+
+**COST Conference Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting**, poster presentation
+
+*Sep 2022*
+
+**81st National Scientific Conference Tuteech** *Tutoring in the Eyes of Students*, oral presentation
+
+*Sep 2022*
+
+**XXV Lower Silesian Science Festival**, oral presentation
+
+*Jun 2022*
+
+**63 Crystallographic Conversation**, presentation in poster session
+
+*Apr 2022*
+
+**IX National Conference of Medical Physics Students *Physics for Medicine*** where I won a competition for the best oral presentation
+
 ## Others
+
+*Jul 2021*
+
+**2nd place in a design competition for a green solution that can be implemented on the university campus**
