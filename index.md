@@ -1,4 +1,4 @@
-I may not be an expert in chemistry, but my models are🧪 💻
+I may not be an expert in chemistry, but my models are🧪💻
 
 Here is my portfolio, a list of published articles, accomplishments etc.
 
@@ -10,7 +10,7 @@ Here is my portfolio, a list of published articles, accomplishments etc.
 
 *Dec 2022 - Dec 2023*
 
-**Quality Assurance Intern at Luxoft**  After a strictly chemical internship, I decided to try my luck in a strictly corporate job. At Luxoft, my job was to annotate data using the company's software. After a year, I can confidently say that I find myself more at this type of work. However, I missed the element of creative thinking or problem-solving there.
+**Quality Assurance Intern at Luxoft**  After a strictly chemical internship, I decided to try my luck in a strictly corporate job. At Luxoft, my job was to annotate data using the company's software. After a year, I can safely say that I have gained experience and find myself more at this type of work. However, I missed the element of creative thinking or problem-solving there.
 
 *Jul 2022 - Sep 2022*
 
@@ -26,6 +26,7 @@ Wroclaw University of Science and Technology, **Chemical Technology**, Engineeri
 ## Projects
 
 **RPC** - tba
+
 **PICle** - A procedure that, through the use of machine learning, makes it possible to predict the potential energy of bimetallic clusters and, as a result, analyze catalytic pathways without the need for expensive calculations
 
 ## Publications
