@@ -1,6 +1,6 @@
-I'm Rafal, AI specialist among chemists and chemistry specialist among AI developers 🧪 💻
+I may not be an expert in chemistry, but my models are🧪 💻
 
-Here is my portfolio, a list of published articles, accomplishments, in a word, my personal website
+Here is my portfolio, a list of published articles, accomplishments etc.
 
 ## Experience
 
@@ -10,7 +10,7 @@ Here is my portfolio, a list of published articles, accomplishments, in a word, 
 
 *Dec 2022 - Dec 2023*
 
-**Quality Assurance Intern at Luxoft**  After a strictly chemical internship, I decided to try my luck in a strictly corporate job. At Luxoft, my job was to annotate data using the company's software. After a year, I can confidently say that I find myself more at this type of work. However, I missed the element of creative thinking or problem-solving. 
+**Quality Assurance Intern at Luxoft**  After a strictly chemical internship, I decided to try my luck in a strictly corporate job. At Luxoft, my job was to annotate data using the company's software. After a year, I can confidently say that I find myself more at this type of work. However, I missed the element of creative thinking or problem-solving there.
 
 *Jul 2022 - Sep 2022*
 
@@ -25,8 +25,8 @@ Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Maste
 Wroclaw University of Science and Technology, **Chemical Technology**, Engineering degree
 ## Projects
 
-**RPC**
-**PICle**
+**RPC** - tba
+**PICle** - A procedure that, through the use of machine learning, makes it possible to predict the potential energy of bimetallic clusters and, as a result, analyze catalytic pathways without the need for expensive calculations
 
 ## Publications
 
@@ -36,19 +36,22 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 ## Conference Participation
 
-*Feb 2023*
+*Apr 2024, Vienna*
 **COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
 
-*Sep 2022*
+*Feb 2023, Brussel*
+**COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
+
+*Sep 2022, Wroclaw*
 **81st National Scientific Conference Tuteech** *Tutoring in the Eyes of Students*, oral presentation
 
-*Sep 2022*
+*Sep 2022, online*
 **XXV Lower Silesian Science Festival**, oral presentation
 
-*Jun 2022*
+*Jun 2022, online*
 **63 Crystallographic Conversation**, poster presentation
 
-*Apr 2022*
+*Apr 2022, online*
 **IX National Conference of Medical Physics Students *Physics for Medicine*** where I won a competition for the best oral presentation
 
 ## Others
