@@ -40,7 +40,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 *Apr 2024, Vienna*
 **COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
 
-*Feb 2023, Brussel*
+*Feb 2023, Brussels*
 **COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
 
 *Sep 2022, Wroclaw*
@@ -59,3 +59,11 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 *Jul 2021*
 **2nd place in a design competition for a green solution that can be implemented on the university campus**
+
+## After hours
+
+I can solve a Rubik's cube in 6 seconds. I own the [24 fastest single solve](https://rankingi.rubiart.pl/rankings) of this puzzle in the entire history of the largest Polish Speedcubing Online League.
+
+I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6b+ 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
+
+I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. Unfortunately, lately, I have a little less time for reading and in 2024 I have read only 3 books.
