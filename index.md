@@ -66,4 +66,6 @@ I can solve a Rubik's cube in 6 seconds. I own the [24 fastest single solve](htt
 
 I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6b+ 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
 
-I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. Unfortunately, lately, I have a little less time for reading and in 2024 I have read only 3 books.
+I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. Unfortunately, lately, I have a little less time for reading and in 2024 I have read only 3 books so far.
+
+I enjoy playing board games: I gravitate towards board games that offer a sweet spot of complexity, allowing for strategic depth without drowning in rules. My favorite board game is Brass Birmingham (which is already quite complex by my standards). Alongside that, titles like Aquatica, Everdell, and Cascadia hold a special place in my collection. I even keep a ranking in which I have implemented the ELO system for the games of my friends and family 😅
