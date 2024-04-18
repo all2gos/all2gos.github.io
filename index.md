@@ -44,7 +44,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 **COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
 
 *Sep 2022, Wroclaw*
-**81st National Scientific Conference Tuteech** *Tutoring in the Eyes of Students*, oral presentation
+**1st National Scientific Conference Tuteech** *Tutoring in the Eyes of Students*, oral presentation
 
 *Sep 2022, online*
 **XXV Lower Silesian Science Festival**, oral presentation
