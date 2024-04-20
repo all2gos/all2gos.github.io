@@ -2,6 +2,8 @@ I may not be an expert in chemistry, but my models are🧪💻
 
 Here is my portfolio, a list of published articles, accomplishments etc.
 
+[Presentation about SGD](https://github.com/all2gos/all2gos.github.io/blob/master/zad3_slides.html)
+
 ## Experience
 
 *Jan 2024 - now*
