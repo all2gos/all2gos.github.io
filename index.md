@@ -2,7 +2,7 @@ I may not be an expert in chemistry, but my models are🧪💻
 
 Here is my portfolio, a list of published articles, accomplishments etc.
 
-[Presentation about SGD](Convolutions.slides.html)
+[Presentation about SGD](Convolution.slides.html)
 
 ## Experience
 
