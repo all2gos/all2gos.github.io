@@ -2,7 +2,12 @@ I may not be an expert in chemistry, but my models are🧪💻
 
 Here is my portfolio, a list of published articles, accomplishments etc.
 
+**Section with student projects**
+
+----------------------------------------------------------
+
 [Presentation about convolution](convolution.html)
+
 
 ## Experience
 
