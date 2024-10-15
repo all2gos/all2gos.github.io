@@ -1,6 +1,6 @@
 Ultimate Goal: to create better models in chemistry than me.
 
-Here is my portfolio, a list of published articles, accomplishments etc.
+Somehow you ended up on my personal page.
 
 ----------------------------------------------------------
 
