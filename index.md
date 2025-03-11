@@ -4,8 +4,9 @@ Somehow you ended up on my personal page.
 
 ----------------------------------------------------------
 
-**Section with student projects**
+**Section with my student projects**
 
+[Presentation about GAT](https://www.canva.com/design/DAGg4v7ldTA/6qUHmSEKuONerXAjhFbcXA/edit)
 [Presentation about convolution](convolution.html)
 
 ----------------------------------------------------------
