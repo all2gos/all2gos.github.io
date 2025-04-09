@@ -6,9 +6,6 @@ Somehow you ended up on my personal page.
 
 **Section with my student projects**
 
-[Presentation about GAT](https://www.canva.com/design/DAGg4v7ldTA/6qUHmSEKuONerXAjhFbcXA/edit)
-[Presentation about convolution](convolution.html)
-
 ----------------------------------------------------------
 
 
@@ -48,6 +45,9 @@ Nov 26, 2023 [Can Machine Learning Predict the Reaction Paths in Catalytic CO2 R
 Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators in the opto-electronic networks](https://www.sciencedirect.com/science/article/abs/pii/S1010603022007055?via%3Dihub) (IF = 4.3)
 
 ## Conference Participation
+
+*Apr 2025, Cracow*
+**57 OKK**, poster presentation
 
 *Sep 2024, Sevilla*
 **ICTAC 2024**, talk (short communicate)
