@@ -1,4 +1,4 @@
-Ultimate Goal: to create better models in chemistry than me.
+Somewhere in the world, there is a model who is better at chemistry than you🧪💻
 
 Somehow you ended up on my personal page.
 
@@ -45,6 +45,9 @@ Nov 26, 2023 [Can Machine Learning Predict the Reaction Paths in Catalytic CO2 R
 Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators in the opto-electronic networks](https://www.sciencedirect.com/science/article/abs/pii/S1010603022007055?via%3Dihub) (IF = 4.3)
 
 ## Conference Participation
+
+*May 2025, Espoo*
+**ML4MD**, poster presentation
 
 *Apr 2025, Cracow*
 **57 OKK**, poster presentation
