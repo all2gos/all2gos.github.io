@@ -32,11 +32,13 @@ Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Maste
 Wroclaw University of Science and Technology, **Chemical Technology**, Engineering degree
 ## Projects
 
-**RGBChem** - A method that translates chemical information into RGB images later used to train convolutional neural networks. [GitHub](https://github.com/all2gos/RGBChem) 
+**RGBChem** - A method that translates chemical information into RGB images later used to train convolutional neural networks. [GitHub](https://github.com/all2gos/RGBChem) [Article](https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00291)
 
 **PICle** - A procedure that, through the use of machine learning, makes it possible to predict the potential energy of bimetallic clusters and, as a result, analyze catalytic pathways without the need for expensive calculations. [GitHub](https://github.com/all2gos/PICle) [Article](https://www.mdpi.com/2073-4344/13/12/1470)
 
 ## Publications
+
+May 12, 2025 [RGBChem: Image-Like Representation of Chemical Compounds for Property Prediction](https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00291) (IF = 5.7)
 
 Jul 18, 2024 [Challenges in Peptide Solubilization – Amyloids Case Study](https://onlinelibrary.wiley.com/doi/abs/10.1002/tcr.202400053) (IF = 7.0)
 
