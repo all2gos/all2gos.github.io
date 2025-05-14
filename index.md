@@ -1,4 +1,4 @@
-Somewhere in the world, there is a model who is better at chemistry than you🧪💻
+Somewhere in the world, there is a model which is better at chemistry than you🧪💻
 
 Somehow you ended up on my personal page.
 
