@@ -4,14 +4,9 @@ Somehow you ended up on my personal page.
 
 ----------------------------------------------------------
 
-**Section with my student projects**
-
-----------------------------------------------------------
-
-
 ## Experience
 
-*Jan 2024 - now*
+*Jan 2024 - Dec 2025*
 
 **Research Intern at Wroclaw University of Science and Technology** - I am currently engaged in exploring new methods of using artificial intelligence in theoretical chemistry working in a research team at Wroclaw University of Science and Technology
 
@@ -47,6 +42,9 @@ Nov 26, 2023 [Can Machine Learning Predict the Reaction Paths in Catalytic CO2 R
 Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators in the opto-electronic networks](https://www.sciencedirect.com/science/article/abs/pii/S1010603022007055?via%3Dihub) (IF = 4.3)
 
 ## Conference, Workshop, and School Participation
+
+*Sep 2025, Wroclaw*
+**MDMM2025**, poster presentation
 
 *June 2025, Zadar*
 **ML4MMR school**, poster presentation
@@ -92,6 +90,6 @@ I can solve a Rubik's cube in 6 seconds. I own the [28 fastest single solve](htt
 
 I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6b+ 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
 
-I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. Unfortunately, lately, I have a little less time for reading and in 2024 I have read only 7 books so far.
+I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. I set myself the goal of reading **at least 1,000 books in my lifetime**. My current count (September 2025) is 164 (2025: 13, 2024: 10, 2023: 28). If I keep up my current pace, I will reach this milestone before the end of 2064.
 
 I enjoy playing board games: I gravitate towards board games that offer a sweet spot of complexity, allowing for strategic depth without drowning in rules. My favorite board game is Brass Birmingham (which is already quite complex by my standards). Alongside that, titles like Aquatica, Everdell, and Cascadia hold a special place in my collection. I even keep a ranking for my friends and family in which I have implemented the ELO system 😅
