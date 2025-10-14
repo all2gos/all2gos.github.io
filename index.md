@@ -2,6 +2,7 @@ Somewhere in the world, there is a model which is better at chemistry than youðŸ
 
 Somehow you ended up on my personal page.
 
+[Google Scholar](https://scholar.google.com/citations?user=i9Gl_VwAAAAJ) [ORCID](https://orcid.org/0009-0005-5350-2586) [LinkedIn](https://www.linkedin.com/in/stottkoraf)
 ----------------------------------------------------------
 
 ## Experience
