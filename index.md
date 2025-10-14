@@ -2,9 +2,9 @@ Somewhere in the world, there is a model which is better at chemistry than you�
 
 Somehow you ended up on my personal page.
 
-[Google Scholar](https://scholar.google.com/citations?user=i9Gl_VwAAAAJ) [ORCID](https://orcid.org/0009-0005-5350-2586) [LinkedIn](https://www.linkedin.com/in/stottkoraf)
 ----------------------------------------------------------
 
+[Google Scholar](https://scholar.google.com/citations?user=i9Gl_VwAAAAJ) [ORCID](https://orcid.org/0009-0005-5350-2586) [LinkedIn](https://www.linkedin.com/in/stottkoraf)
 ## Experience
 
 *Jan 2024 - Dec 2025*
@@ -19,6 +19,11 @@ Somehow you ended up on my personal page.
 
 **Intern at the Division of Nanomaterials Chemistry and Catalysis** My task was to carry out the synthesis of mesoporous inorganic supports, and to study the catalytic activity of the materials obtained. The work was geared towards the development of new synthesis procedures. I remember this summer internship very warmly.
 ## Education
+
+*Oct2025 - present*
+
+Wroclaw University of Science and Technology, **Chemical sciences**, PhD Candidate
+
 *Oct 2023 - Jun 2025*
 
 Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Master's degree
@@ -44,37 +49,37 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 ## Conference, Workshop, and School Participation
 
-*Sep 2025, Wroclaw*
+*11. Sep 2025, Wroclaw*
 **MDMM2025**, poster presentation
 
-*June 2025, Zadar*
+*10. June 2025, Zadar*
 **ML4MMR school**, poster presentation
 
-*May 2025, Espoo*
+*9. May 2025, Espoo*
 **ML4MD**, poster presentation
 
-*Apr 2025, Cracow*
+*8. Apr 2025, Cracow*
 **57 OKK**, poster presentation
 
-*Sep 2024, Sevilla*
+*7. Sep 2024, Sevilla*
 **ICTAC 2024**, talk (short communicate)
 
-*Apr 2024, Vienna*
+*6. Apr 2024, Vienna*
 **COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
 
-*Feb 2023, Brussels*
+*5. Feb 2023, Brussels*
 **COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
 
-*Sep 2022, Wroclaw*
+*4. Sep 2022, Wroclaw*
 **1st National Scientific Conference Tuteech** *Tutoring in the Eyes of Students*, talk
 
-*Sep 2022, online*
+*3. Sep 2022, online*
 **XXV Lower Silesian Science Festival**, talk
 
-*Jun 2022, online*
+*2. Jun 2022, online*
 **63 Crystallographic Conversation**, poster presentation
 
-*Apr 2022, online*
+*1. Apr 2022, online*
 **IX National Conference of Medical Physics Students *Physics for Medicine*** where I won a competition for the best oral presentation
 
 ## Others
@@ -89,7 +94,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 I can solve a Rubik's cube in 6 seconds. I own the [28 fastest single solve](https://rankingi.rubiart.pl/rankings) of this puzzle in the entire history of the largest Polish Speedcubing Online League.
 
-I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6b+ 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
+I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6c 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
 
 I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. I set myself the goal of reading **at least 1,000 books in my lifetime**. My current count (September 2025) is 164 (2025: 13, 2024: 10, 2023: 28). If I keep up my current pace, I will reach this milestone before the end of 2064.
 
