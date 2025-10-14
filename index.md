@@ -20,7 +20,7 @@ Somehow you ended up on my personal page.
 **Intern at the Division of Nanomaterials Chemistry and Catalysis** My task was to carry out the synthesis of mesoporous inorganic supports, and to study the catalytic activity of the materials obtained. The work was geared towards the development of new synthesis procedures. I remember this summer internship very warmly.
 ## Education
 
-*Oct2025 - present*
+*Oct 2025 - present*
 
 Wroclaw University of Science and Technology, **Chemical sciences**, PhD Candidate
 
