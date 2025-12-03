@@ -84,6 +84,9 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 ## Others
 
+*Nov 2025*
+**1st place in the Polish Chemical Society’s competition for MSc theses**
+
 *Jan 2025*
 **3rd place in the National Thesis Competition Chemistry 4 Science**
 
