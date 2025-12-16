@@ -26,11 +26,11 @@ Wroclaw University of Science and Technology, **Chemical sciences**, PhD Candida
 
 *Oct 2023 - Jun 2025*
 
-Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Master's degree
+Wroclaw University of Environmental and Life Sciences, **Bioinformatics**, Master's degree 🥇🏅 (see below for explanation)
 
 *Oct 2019 - Feb 2023*
 
-Wroclaw University of Science and Technology, **Chemical Technology**, Engineering degree
+Wroclaw University of Science and Technology, **Chemical Technology**, Engineering degree 🥉
 ## Projects
 
 **RGBChem** - A method that translates chemical information into RGB images later used to train convolutional neural networks. [GitHub](https://github.com/all2gos/RGBChem) [Article](https://pubs.acs.org/doi/full/10.1021/acs.jctc.5c00291)
@@ -47,7 +47,13 @@ Nov 26, 2023 [Can Machine Learning Predict the Reaction Paths in Catalytic CO2 R
 
 Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators in the opto-electronic networks](https://www.sciencedirect.com/science/article/abs/pii/S1010603022007055?via%3Dihub) (IF = 4.3)
 
-## Conference, Workshop, and School Participation
+## Conference, Workshop, Presentation, and School Participation
+
+*13. Dec, Wroclaw*
+**DUK AI**, presentation
+
+*12. Dec, Wroclaw*
+**Winter PTChem meeting**, presentation of my Master’s thesis
 
 *11. Sep 2025, Wroclaw*
 **MDMM2025**, poster presentation
@@ -82,16 +88,19 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 *1. Apr 2022, online*
 **IX National Conference of Medical Physics Students *Physics for Medicine*** where I won a competition for the best oral presentation
 
-## Others
+## Awards for my MSc and Engineering theses
 
-*Nov 2025*
-**1st place in the Polish Chemical Society’s competition for MSc theses**
+**🥇 (first prize) in the Polish Chemical Society’s Competition for MSc Theses**
 
-*Jan 2025*
-**3rd place in the National Thesis Competition Chemistry 4 Science**
+**🏅 (honorable mention) in the Polish Informatics Society’s National Competition for MSc Theses**
 
-*Jul 2021*
-**2nd place in a design competition for a green solution that can be implemented on the university campus**
+**🥉 (third prize) in the National Thesis Competition “Chemistry for Science”**
+
+## Other achievements
+
+*Jul 2021*  
+**🥈 (second prize) in a design competition for a green solution implementable on a university campus**
+
 
 ## After hours
 
@@ -99,6 +108,6 @@ I can solve a Rubik's cube in 6 seconds. I own the [28 fastest single solve](htt
 
 I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6c 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
 
-I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. I set myself the goal of reading **at least 1,000 books in my lifetime**. My current count (September 2025) is 164 (2025: 13, 2024: 10, 2023: 28). If I keep up my current pace, I will reach this milestone before the end of 2064.
+I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. I set myself the goal of reading **at least 1,000 books in my lifetime**. My current count (December 2025) is 173 (2025: 22, 2024: 10, 2023: 28). If I keep up my current pace, I will reach this milestone before the end of 2064.
 
 I enjoy playing board games: I gravitate towards board games that offer a sweet spot of complexity, allowing for strategic depth without drowning in rules. My favorite board game is Brass Birmingham (which is already quite complex by my standards). Alongside that, titles like Aquatica, Everdell, and Cascadia hold a special place in my collection. I even keep a ranking for my friends and family in which I have implemented the ELO system 😅
