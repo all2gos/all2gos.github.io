@@ -108,6 +108,6 @@ I can solve a Rubik's cube in 6 seconds. I own the [28 fastest single solve](htt
 
 I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6c 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
 
-I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. I set myself the goal of reading **at least 1,000 books in my lifetime**. My current count (December 2025) is 173 (2025: 22, 2024: 10, 2023: 28). If I keep up my current pace, I will reach this milestone before the end of 2064.
+I like fiction books 📖, my favorite authors are Andrzej Pilipiuk and Jacek Dukaj. I set myself the goal of reading **at least 1,000 books in my lifetime**. My current count (December 2025) is 172 (2025: 21, 2024: 10, 2023: 28). If I keep up my current pace, I will reach this milestone before the end of 2064.
 
 I enjoy playing board games: I gravitate towards board games that offer a sweet spot of complexity, allowing for strategic depth without drowning in rules. My favorite board game is Brass Birmingham (which is already quite complex by my standards). Alongside that, titles like Aquatica, Everdell, and Cascadia hold a special place in my collection. I even keep a ranking for my friends and family in which I have implemented the ELO system 😅
