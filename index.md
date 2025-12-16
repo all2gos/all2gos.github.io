@@ -53,7 +53,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 **DUK AI**, presentation
 
 *12. Dec, Wroclaw*
-**Winter PTChem meeting**, presentation of my Master’s thesis
+**Winter PCS meeting**, presentation of my Master’s thesis
 
 *11. Sep 2025, Wroclaw*
 **MDMM2025**, poster presentation
@@ -92,7 +92,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 **🥇 (first prize) in the Polish Chemical Society’s Competition for MSc Theses**
 
-**🏅 (honorable mention) in the Polish Informatics Society’s National Competition for MSc Theses**
+**🏅 (honorable mention) in the Polish Information Processing Society’s National Competition for MSc Theses**
 
 **🥉 (third prize) in the National Thesis Competition “Chemistry for Science”**
 
