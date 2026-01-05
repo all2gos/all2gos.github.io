@@ -4,7 +4,7 @@ Somehow you ended up on my personal page.
 
 ----------------------------------------------------------
 
-[Google Scholar](https://scholar.google.com/citations?user=i9Gl_VwAAAAJ) [ORCID](https://orcid.org/0009-0005-5350-2586) [LinkedIn](https://www.linkedin.com/in/stottkoraf)
+[Google Scholar](https://scholar.google.com/citations?user=i9Gl_VwAAAAJ) [ORCID](https://orcid.org/0009-0005-5350-2586) [LinkedIn](https://www.linkedin.com/in/stottkoraf) [ResearchGate](https://www.researchgate.net/profile/Rafal-Stottko/research) [Web of Science](https://www.webofscience.com/wos/author/record/OMM-5138-2025) [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58018702900)
 ## Experience
 
 *Jan 2024 - Dec 2025*
