@@ -90,9 +90,9 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 ## Awards for my MSc and Engineering theses
 
-**🥇 (first prize) in the Polish Chemical Society’s Competition for MSc Theses**
+**🥇 (first prize) in the Polish Chemical Society’s Competition for MSc Theses** 
 
-**🏅 (honorable mention) in the Polish Information Processing Society’s National Competition for MSc Theses**
+**🏅 (honorable mention) in the Polish Information Processing Society’s National Competition for MSc Theses** (It was the first trophy for Wrocław University of Environmental and Life Sciences for a graduate thesis, and the first trophy for a thesis supervised by a professor from the Faculty of Chemistry at Wrocław University of Science and Technology)
 
 **🥉 (third prize) in the National Thesis Competition “Chemistry for Science”**
 
@@ -101,6 +101,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 *Jul 2021*  
 **🥈 (second prize) in a design competition for a green solution implementable on a university campus**
 
+## Side projects
 
 ## After hours
 
