@@ -92,7 +92,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 **🥇 (first prize) in the Polish Chemical Society’s Competition for MSc Theses** 
 
-**🏅 (honorable mention) in the Polish Information Processing Society’s National Competition for MSc Theses** (It was the first trophy for Wrocław University of Environmental and Life Sciences for a graduate thesis, and the first trophy for a thesis supervised by a professor from the Faculty of Chemistry at Wrocław University of Science and Technology)
+**🏅 (honorable mention) in the Polish Information Processing Society’s National Competition for MSc Theses** In this competition with over 40 editions, this was the first trophy awarded for a master’s thesis written at Wrocław University of Environmental and Life Sciences, and the first trophy for a thesis supervised by a professor from the Faculty of Chemistry at Wrocław University of Science and Technology.
 
 **🥉 (third prize) in the National Thesis Competition “Chemistry for Science”**
 
