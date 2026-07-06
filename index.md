@@ -49,10 +49,16 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 ## Conference, Workshop, Presentation, and School Participation
 
-*13. Dec, Wroclaw*
+*15. Jul 2026, Delft*
+**ICTAC-26**, poster
+
+*14. Apr 2026, Wroclaw*
+**Lem Next Gen Science Forum**, poster
+
+*13. Dec 2025, Wroclaw*
 **DUK AI**, presentation
 
-*12. Dec, Wroclaw*
+*12. Dec 2025, Wroclaw*
 **Winter PCS meeting**, presentation of my Master’s thesis
 
 *11. Sep 2025, Wroclaw*
@@ -105,7 +111,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 ## After hours
 
-I can solve a Rubik's cube in 6 seconds. I own the [28 fastest single solve](https://rankingi.rubiart.pl/rankings) of this puzzle in the entire history of the largest Polish Speedcubing Online League.
+I can solve a Rubik's cube in 6 seconds. I own the [32 fastest single solve](https://rankingi.rubiart.pl/rankings) of this puzzle in the entire history of the largest Polish Speedcubing Online League.
 
 I love climbing 🧗‍♂️, whether it's on the climbing wall (my hardest route ever done: 6c 💪) or out on the rocks (my hardest route ever done outdoor: 6a+). I prefer bouldering over rope climbing.
 
