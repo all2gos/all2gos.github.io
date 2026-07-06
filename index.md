@@ -49,11 +49,14 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 
 ## Conference, Workshop, Presentation, and School Participation
 
-*15. Jul 2026, Delft*
+*16. Jul 2026, Delft*
 **ICTAC-26**, poster
 
-*14. Apr 2026, Wroclaw*
+*15. Apr 2026, Wroclaw*
 **Lem Next Gen Science Forum**, poster
+
+*14. Jan 2026, Wroclaw*
+**PIPS meeting**, presentation of my Master's thesis
 
 *13. Dec 2025, Wroclaw*
 **DUK AI**, presentation
