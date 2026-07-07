@@ -50,7 +50,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 ## Conference, Workshop, Presentation, and School Participation
 
 *16. Jul 2026, Delft*
-**ICTAC-26**, poster
+**ICTAC-20**, poster
 
 *15. Apr 2026, Wroclaw*
 **Lem Next Gen Science Forum**, poster
@@ -77,7 +77,7 @@ Dec 9, 2022 [Application of the pyrazolone derivatives as effective modulators i
 **57 OKK**, poster presentation
 
 *7. Sep 2024, Sevilla*
-**ICTAC 2024**, talk (short communicate)
+**ICTAC-19**, talk (short communicate)
 
 *6. Apr 2024, Vienna*
 **COST Conference** *Designing the Future: Electro-, Photo- and Thermo-Chemical Water splitting*, poster presentation
